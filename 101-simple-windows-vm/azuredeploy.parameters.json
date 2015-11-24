@@ -3,17 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "astore2"
     },
     "adminUsername": {
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Password!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
-    }
+      "value": "adqwerty"
+    },
+    "location": {
+      "value": "west US"
+        },
+        "sizeofdiskingb": {
+          "value": "20"
+        }
   }
 }
-
